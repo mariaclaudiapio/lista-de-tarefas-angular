@@ -1,1 +1,24 @@
-/*# sourceMappingURL=todo-input-add-itens.component.css.map */
+:host {
+  display: flex;
+  justify-content: center;
+  margin-top: -20px;
+}
+:host input {
+  width: 80%;
+  border: none;
+  background: #9c3ad8;
+  font-size: 16px;
+  color: #ffffff;
+  text-align: center;
+  padding: 10px;
+  box-sizing: border-box;
+}
+:host input::-moz-placeholder {
+  color: #ffffff;
+}
+:host input:-ms-input-placeholder {
+  color: #ffffff;
+}
+:host input::placeholder {
+  color: #ffffff;
+}/*# sourceMappingURL=todo-input-add-itens.component.css.map */

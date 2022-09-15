@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"todo-button-delete-all.component.css"}
+{"version":3,"sources":["todo-button-delete-all.component.sass","todo-button-delete-all.component.css","../../../../../dist/sass/variaveis.sass"],"names":[],"mappings":"AAEA;EACE,aAAA;EACA,mBAAA;EACA,uBAAA;EACA,gBAAA;ACDF;ADGE;EACE,YAAA;EACA,mBAAA;EACA,mBAAA;EACA,eAAA;EACA,cEXa;EFYb,UAAA;EACA,aAAA;ACDJ","file":"todo-button-delete-all.component.css"}

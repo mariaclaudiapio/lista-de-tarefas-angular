@@ -1,1 +1,15 @@
-/*# sourceMappingURL=todo-button-delete-all.component.css.map */
+:host {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+:host button {
+  border: none;
+  border-radius: 50px;
+  background: #fa4f2d;
+  font-size: 16px;
+  color: #ffffff;
+  width: 60%;
+  padding: 10px;
+}/*# sourceMappingURL=todo-button-delete-all.component.css.map */
